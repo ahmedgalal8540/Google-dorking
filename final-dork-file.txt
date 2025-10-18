@@ -1,0 +1,210 @@
+intitle:"index
+filetype:pdf
+inurl:admin
+intitle:"login"
+intitle:"error"
+intitle:"index
+intitle:"index
+intitle:"index
+intitle:"index
+intitle:"index
+inurl:"/etc/passwd"
+filetype:sql
+filetype:log
+filetype:conf
+filetype:env
+filetype:swf
+filetype:xml
+filetype:json
+filetype:php
+filetype:txt
+filetype:doc
+filetype:docx
+filetype:xls
+filetype:xlsx
+filetype:csv
+filetype:zip
+filetype:pdf
+filetype:php
+inurl:wp-config.php
+inurl:wp-login.php
+inurl:wp-admin
+inurl:phpinfo.php
+inurl:info.php
+inurl:database.php
+inurl:backup.sq
+inurl:backup.zip
+inurl:phpinfo.php
+inurl:server-status
+inurl:server-info
+inurl:robots.txt
+inurl:.git
+inurl:.svn
+inurl:.hg
+inurl:.bzr
+inurl:.htpasswd
+
+intitle:"index of" "config.php"
+intitle:"index of" ".env"
+intitle:"index of" "database"
+intitle:"index of" "backup"
+intitle:"index of" "log"
+intitle:"index of" "password"
+intitle:"index of" "admin"
+intitle:"index of" "root"
+intitle:"index of" "passwd"
+intitle:"index of" "shadow"
+intitle:"index of" "htaccess"
+intitle:"index of" "id_rsa"
+intitle:"index of" "web.config"
+inurl:"wp-config.php"
+inurl:"config.php"
+inurl:"database.yml"
+inurl:".env"
+inurl:"db_backup.sql"
+inurl:"backup.zip"
+inurl:"admin/config"
+inurl:"phpinfo.php"
+inurl:"test.php"
+inurl:"server-info"
+inurl:"server-status"
+ext:sql intext:@gmail.com
+ext:sql intext:password
+ext:sql intext:username
+ext:sql intext:INSERT INTO
+
+intitle:"login"
+intitle:"admin panel"
+intitle:"admin login"
+intitle:"dashboard"
+intitle:"sign in"
+inurl:"admin"
+inurl:"login"
+inurl:"wp-admin"
+inurl:"wp-login.php"
+inurl:"administrator"
+inurl:"admin.php"
+inurl:"admin.html"
+inurl:"admin.asp"
+inurl:"admin.jsp"
+inurl:"panel"
+inurl:"cpanel"
+inurl:"webmail"
+inurl:"controlpanel"
+inurl:"admin/account"
+inurl:"admin/login"
+inurl:"administrator/login"
+inurl:"user/login"
+inurl:"staff"
+inurl:"staff/login"
+
+
+filetype:pdf "confidential"
+filetype:doc "confidential"
+filetype:xls "financial"
+filetype:docx "invoice"
+filetype:pdf "invoice"
+filetype:pdf "contract"
+filetype:pdf "resume"
+filetype:txt "password"
+filetype:log "password"
+filetype:ini "password"
+filetype:cfg "password"
+filetype:conf "password"
+filetype:bak "password"
+filetype:backup "password"
+filetype:old "password"
+filetype:sql "password"
+filetype:db "password"
+filetype:mdb "password"
+intext:"password" filetype:txt
+intext:"username" AND "password" filetype:txt
+
+inurl:"view/index.shtml"
+inurl:"view/view.shtml"
+intitle:"live view" -inurl:axis
+intitle:"ip camera"
+inurl:"CgiStart?page="
+inurl:"/home/home.html"
+intitle:"webcam" inurl:8080
+intitle:"webcamXP 5"
+inurl:"cam-control"
+intitle:"DVR" inurl:"web"
+intitle:"Network Camera NetworkCamera"
+inurl:"axis-cgi/mjpg/video.cgi"
+inurl:"singleframe"
+inurl:"MultiCameraFrame"
+inurl:"/control/userimage.html"
+
+intitle:"error"
+intitle:"warning"
+intitle:"exception"
+intitle:"fatal error"
+intitle:"sql syntax"
+intext:"sql syntax near"
+intext:"mysql_fetch_array()"
+intext:"mysql error"
+intext:"ORA-00936"
+intext:"Microsoft OLE DB Provider for ODBC Drivers error"
+intext:"Warning: mysql_connect()"
+intext:"supplied argument is not a valid MySQL"
+intext:"on line" filetype:php
+intext:"Invalid query" filetype:php
+
+intitle:"Joomla administration"
+intitle:"WordPress" "DASHBOARD"
+intitle:"phpMyAdmin"
+intitle:"webmin"
+intitle:"cpanel"
+intitle:"RoundCube Webmail"
+intitle:"SquirrelMail"
+intitle:"Horde"
+intitle:"Plesk"
+intitle:"WHM"
+intitle:"XAMPP"
+intitle:"WAMP"
+intitle:"MAMP"
+intitle:"LAMP"
+intitle:"Tomcat Manager"
+intitle:"GlassFish Server"
+intitle:"JBoss Management"
+inurl:"wp-content"
+inurl:"wp-includes"
+inurl:"wp-admin"
+inurl:"wp-json"
+inurl:"phpmyadmin"
+inurl:"webadmin"
+inurl:"adminer"
+inurl:"mysql"
+inurl:"oracle"
+inurl:"postgresql"
+
+intitle:"index of" "ssh key"
+intitle:"index of" "ssl key"
+intitle:"index of" "private key"
+intitle:"index of" "public key"
+
+site:linkedin.com "software engineer" "new york"
+site:facebook.com "john doe"
+site:twitter.com "john doe"
+site:instagram.com "john doe"
+site:pinterest.com "john doe"
+inurl:"profile" "john doe"
+"john doe" "resume" filetype:pdf
+"john doe" "cv" filetype:pdf
+"john doe" "contact" filetype:doc
+"john doe" "email" filetype:txt
+"john doe" "phone" filetype:txt
+
+(inurl:admin | inurl:login | inurl:dashboard)
+(filetype:pdf | filetype:doc | filetype:xls)
+(intitle:"index of" | intitle:"list of")
+(inurl:config | inurl:backup | inurl:database)
+(intitle:"error" | intitle:"warning" | intitle:"exception")
+(inurl:wp-content | inurl:wp-includes | inurl:wp-admin)
+(filetype:sql | filetype:db | filetype:mdb)
+(inurl:phpinfo | inurl:test | inurl:info)
+(intitle:"index of" "password" | intitle:"index of" "config")
+
+
+
